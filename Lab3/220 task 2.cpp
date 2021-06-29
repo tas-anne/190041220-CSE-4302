@@ -16,7 +16,7 @@ public:
     {
         if (denom == 0)
         {
-            cout << "Error!Can't be equal to 0!!!!!" << endl;
+            cout << "Error!denominator Can't be equal to 0!!!!!" << endl;
             flag2=1;
             return;
         }
